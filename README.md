@@ -2,4 +2,4 @@
 
 
 
-https://GorYavrumyan.github.io/my-gor-os/
+https://goryavrumyan.github.io/Gor_Start_Page/
